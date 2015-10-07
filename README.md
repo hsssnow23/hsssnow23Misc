@@ -1,2 +1,2 @@
 # hsssnow23Misc
-My mics repogitory.
+My misc repogitory.
